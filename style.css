@@ -1,0 +1,42 @@
+@media(max-width: 2400px) {
+
+}
+body { 
+  display: flex;
+  text-align: center;
+  font-size: large;
+  font-family: "Trebuchet MS";
+  background-image: url("https://rare-gallery.com/uploads/posts/582971-leo-messi-hd.jpg");
+  background-position: center;
+  color: rgb(128,0,128);
+
+  
+}
+#nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 1em;
+  background-color: rgb(127, 255, 0);
+  opacity: 1;
+  
+}
+header {
+  width: 100%;
+  left: 0;
+  top: 0;
+
+}
+h1 {
+  margin: 50 0 0 0;
+}
+a {
+  opacity: 1;
+}
+strong {
+  color: yellow;
+}
+img {
+  margin: 50 0 0 0;
+}
